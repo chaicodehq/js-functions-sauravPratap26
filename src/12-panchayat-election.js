@@ -192,3 +192,4 @@ export function tallyPure(currentTally, candidateId) {
     [candidateId]: (tally[candidateId] || 0) + 1,
   };
 }
+
